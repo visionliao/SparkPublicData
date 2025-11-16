@@ -1,0 +1,70 @@
+Transportation
+Metro Stations:
+Baoshan Road Station:
+    线路: 地铁3号线、4号线
+    距离: 约250米 (步行约3-4分钟)
+Sichuan North Road Station:
+    线路: 地铁10号线
+    距离: 约900米 (步行约12分钟)
+Shanghai Railway Station:
+    线路: 地铁1号线、3号线、4号线
+    距离: 1站地铁或约1.5公里
+Bus Stops:
+    虬江路东会文路站: 步行约3分钟
+    宝山路鸿兴路站: 步行约5分钟
+周边有多条公交线路，可方便通往静安区、虹口区和黄浦区的不同地点。
+
+Shopping
+Shopping Malls:
+Jing'an Joy City:
+    距离: 约1.1公里 (步行约15-18分钟)
+    大型综合体，集购物、餐饮、娱乐（含屋顶摩天轮）于一体。
+IMIX Park:
+    距离: 约1.3公里
+    新兴的商业综合体，包含餐饮、零售和生活配套。
+EC Mall:
+    距离: 约1.3公里
+Supermarkets:
+    Lianhua Supermarket: 周边有多个不同规模的门店。
+    Hema Fresh: 静安大悦城内有门店，提供在线配送服务。
+    ALDI: 周边区域有分店，提供高性价比的进口商品。
+Convenience Stores:
+    FamilyMart、Lawson、7-Eleven: 楼下及周边500米范围内有多家，24小时营业。
+
+Dining
+Cafes:
+    Starbucks: 静安大悦城及周边写字楼内有多家。
+    M Stand, Manner Coffee, Peet's Coffee: 均为步行可达的距离。
+    独立精品咖啡店: 周边小马路上散布着多家特色咖啡馆。
+Restaurants:
+    西餐：LOKAL、Mr&Mrs Bund by Paul Pairet
+    快餐: 谷沙屋面馆、KFC、Starbucks、麦当劳等连锁快餐。
+    中式餐饮: 从本地上海菜到川菜、粤菜、新疆菜等，周边有大量选择。
+    素食：福和慧（中山公园）、庆春朴门（太古里店）
+    本帮淮扬：甬府（北外滩）、老兴鲜（百盛店）
+    粤菜：添好运（米其林分店 万象天地）、皇朝会（外滩店）
+    特色菜：山石榴（贵州菜 万象天地）、鲁采兴（鲁菜黑珍珠分店 万象天地）
+    酒吧：PLUTO（万象天地）、COA（亚洲排名第一 复兴中路）
+    各国料理: 日料、韩料、西餐、东南亚菜等在静安大悦城和周边街道均有分布。
+    特色小吃: 公寓周边有许多本地面馆、点心店等老字号或网红小店。
+
+Leisure & Parks
+Parks & Green Spaces:
+    四川北路公园: 约1公里
+    不夜城绿地: 约1.2公里
+    闸北公园: 约1.5公里
+    鲁迅公园: 约2公里（可乘地铁或公交到达）
+Culture & Entertainment:
+    大悦城摩天轮: 热门的城市地标。
+    McaM明当代美术馆: 约1.6公里，位于中兴路。
+    1933老场坊: 约1.8公里，著名的历史建筑改造创意园区。
+
+Living Services
+Banks:
+    中国工商银行、中国建设银行、招商银行、交通银行: 周边1公里内均有支行或ATM。
+Hospitals:
+    上海市中医院芷江中路院区: 约900米
+    上海市第一人民医院(分院): 约1.5公里
+    上海长征医院: 约2.5公里
+Gyms:
+    公寓自带24小时健身房
