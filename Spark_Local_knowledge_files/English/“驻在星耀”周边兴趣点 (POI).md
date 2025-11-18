@@ -1,3 +1,4 @@
+#type:local-spark-building
 Transportation
 Metro Stations:
 Baoshan Road Station:

@@ -1,3 +1,4 @@
+#type:local-spark-building
 Dear Residents,
 Welcome to LIV’N The SPARK! 
 To assist you integrate into our SPARK more conveniently, We would like to introduce you as belows:
