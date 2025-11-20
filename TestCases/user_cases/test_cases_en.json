@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "tag": "local-spark-buildingComprehensive",
+    "source": "Comprehensive Document",
+    "question": "Hello, I am a customer and need to rent a house.",
+    "answer": "Yes, I'm happy to help! We at Spark Apartment are dedicated to providing you with a vibrant, worry-free international rental community experience. Do you have any preferences for room type, lease term, or budget? Or would you like to know more about our special services and surrounding facilities? I can give you a detailed introduction.",
+    "score": 10
+  },
+  {
+    "id": 2,
+    "tag": "local-spark-buildingComprehensive",
+    "source": "Comprehensive Document",
+    "question": "Tell me about Spark.",
+    "answer": "Certainly. Are you interested in learning about the general overview of our 'Spark' apartment, the room types, the surrounding amenities, or other information? You can tell me what you're most interested in, and I can provide you with a detailed introduction.",
+    "score": 10
+  },
+  {
+    "id": 3,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Compared to August, was there a rent increase in September?",
+    "answer": "The total average daily rent for all unit types in August was: 345.43 RMB (based on 5,155 total paid room nights). The total average daily rent for all unit types in September was: 331.89 RMB (based on 6,426 total paid room nights). The average rent has decreased.",
+    "score": 10
+  },
+  {
+    "id": 4,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Which apartment layout rented the best or worst last month, determined by vacancy rate",
+    "answer": "The best apartment type to rent in October is a One bedroom deluxe apartment, while the worst apartment type is a three-bedroom apartment.",
+    "score": 10
+  },
+  {
+    "id": 5,
+    "tag": "local-spark-buildingComprehensive",
+    "source": "Comprehensive Document",
+    "question": "Hello, I'm looking for an apartment. Can you briefly introduce your community?",
+    "answer": "\"Of course, welcome to Spark! Our community is dedicated to creating a vibrant and worry-free international rental community for you.\n\nHere are our core highlights:\n\nInternational Rental Community Concept: We provide more than just a place to live; it's a platform to inspire, communicate, and explore life.\nDiverse High-end Facilities:\n24-hour gym: Equipped with top-tier Life Fitness and Precor equipment to meet your fitness needs anytime.\nCo-working space: Providing a flexible and efficient work environment.\nComfortable lounge and multi-function hall: Ideal for relaxation and social gatherings.\nEntertainment room and yoga studio: Catering to your diverse leisure and entertainment needs.\nPet-friendly: We welcome you and your beloved pets.\nVibrant Community and Social Activities: Our professional community management team regularly plans and hosts a variety of community events, such as fitness classes, cooking classes, holiday parties, and outdoor activities, aiming to help you expand your social circle and truly integrate into community life.\nWorry-free Services:\n24-hour customer service and security: Providing you with attentive service and security around the clock.\nProfessional maintenance team: Ensuring your living environment is always in excellent condition.\nPackage delivery service/lockers: Convenient for receiving your packages.\nRegular cleaning: Covering public areas and potential value-added in-unit services.\nVisitor management system: Ensuring the safety and order of the community.\nHigh-quality Living Experience: The apartment interiors feature a modern design style, emphasizing natural light and a sense of space, with large floor-to-ceiling windows, open-plan layouts, and transparent glass sliding doors. All apartments are finished to a high standard, fully equipped with branded appliances and high-quality furniture, truly allowing you to move in with just your suitcase.\nIf you'd like to learn more about our room types, rent, or other detailed information, I can continue to introduce them. Is there anything you're particularly interested in?\"",
+    "score": 10
+  },
+  {
+    "id": 6,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "In July and August, were any one-bedroom apartments rented out?",
+    "answer": "Yes, one-bedroom apartments were rented out in both months.",
+    "score": 10
+  },
+  {
+    "id": 7,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "In July and August, which unit types saw the most significant changes in occupancy rates?",
+    "answer": "Based on the data, compared to July, the Studio Deluxe, Studio Executive, and One-Bedroom Deluxe apartments had the most significant changes in occupancy rates in August, all showing notable increases. Among them, the Studio Deluxe saw the most prominent change with a 9.09% increase in occupancy.",
+    "score": 10
+  },
+  {
+    "id": 8,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Is A1606 occupied?",
+    "answer": "A1606 is currently occupied.",
+    "score": 10
+  },
+  {
+    "id": 9,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "There's a noise complaint for A1606. Can you check who the surrounding residents are and if they have complained before?",
+    "answer": "Rooms A1605 and A1607, adjacent to A1606, are occupied. Both rooms have a work order history, but neither has a record of similar noise complaints.",
+    "score": 10
+  },
+  {
+    "id": 10,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Are there no south-facing rooms in Building A?",
+    "answer": "According to my available information, there are south-facing rooms in Building A.",
+    "score": 10
+  },
+  {
+    "id": 11,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Among the current residents, can you classify them by gender and tell me the number of residents in different age groups?",
+    "answer": "\"\nCurrent Male Resident Age Distribution\nAge Distribution:\n  - Under 18     : 4 people (2.80%)\n  - 18-30 years    : 57 people (39.86%)\n  - 31-45 years    : 36 people (25.17%)\n  - 46-60 years    : 14 people (9.79%)\n  - Over 60      : 1 person (0.70%)\n  - Unknown      : 31 people (21.68%)\nCurrent Female Resident Age Distribution:\n  - Under 18     : 4 people (2.29%)\n  - 18-30 years    : 96 people (54.86%)\n  - 31-45 years    : 42 people (24.00%)\n  - 46-60 years    : 21 people (12.00%)\n  - Over 60      : 0 people (0.00%)\n  - Age Unknown      : 12 people (6.86%)\"",
+    "score": 10
+  },
+  {
+    "id": 12,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Assuming a rent of 10,000 RMB, can it be converted to US dollars? Assume an exchange rate of 7.2 RMB to 1 USD.",
+    "answer": "Certainly, 10,000 RMB is equivalent to 1,388.89 USD.",
+    "score": 10
+  },
+  {
+    "id": 13,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Among the current residents, please tell me the number of male and female residents of different nationalities.",
+    "answer": "Male Nationality Distribution:\n  - CN        : 114 people (82.61%)\n  - JP        : 9 people (6.52%)\n  - Unknown   : 3 people (2.17%)\n  - DE        : 3 people (2.17%)\n  - VN        : 2 people (1.45%)\n  - TW        : 2 people (1.45%)\n  - HK        : 2 people (1.45%)\n  - US        : 1 person (0.72%)\n  - GN        : 1 person (0.72%)\n  - Other     : 1 person (0.72%)\nFemale Nationality Distribution:\n  - CN        : 148 people (86.55%)\n  - JP        : 9 people (5.26%)\n  - VN        : 2 people (1.17%)\n  - CA        : 2 people (1.17%)\n  - MY        : 2 people (1.17%)\n  - TW        : 2 people (1.17%)\n  - HK        : 2 people (1.17%)\n  - US        : 1 person (0.58%)\n  - LA        : 1 person (0.58%)\n  - Other     : 2 people (1.17%)",
+    "score": 10
+  },
+  {
+    "id": 14,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Can you tell me about the background of the tenants in room A1606?",
+    "answer": "\"A1606 currently has two residents. Ms. Wu (ID: 3719), Chinese, born in 2000, is currently 'in-residence'.\nMr. Jin (ID: 3726), born in 2003, Chinese, is also 'in-residence'.\"",
+    "score": 10
+  },
+  {
+    "id": 15,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Do you speak English? How many people will be moving in this month?",
+    "answer": "Yes, I can speak English. I have not found any records of move-ins for this month, November.",
+    "score": 10
+  },
+  {
+    "id": 16,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Can you tell me how many people are staying in the apartment today?",
+    "answer": "There are currently 309 residents.",
+    "score": 10
+  },
+  {
+    "id": 17,
+    "tag": "local-spark-building",
+    "source": "Apartment Complex Facilities Introduction.md",
+    "question": "Besides the gym, what other facilities are in the common area on the 7th floor of Building A?",
+    "answer": "The common area on the 7th floor of Building A includes a lounge, barbecue area, meeting rooms, live streaming rooms, and a co-working space.",
+    "score": 10
+  },
+  {
+    "id": 18,
+    "tag": "local-spark-building",
+    "source": "Comprehensive Apartment Information Report.md",
+    "question": "Can you tell me how many rooms there are?",
+    "answer": "There are a total of 579 rooms.",
+    "score": 10
+  },
+  {
+    "id": 19,
+    "tag": "local-spark-building",
+    "source": "Comprehensive Apartment Information Report.md",
+    "question": "Could you provide more detailed room information, such as room type, internal facilities, and area?",
+    "answer": "\"Certainly, which room type would you like to know more about? We have the following room types:\n\nStudio Deluxe\nStudio Executive\nStudio Premier\nOne Bedroom Deluxe\nOne Bedroom Premier\nTwo Bedroom Deluxe\nThree Bedroom\nYou can also ask for information about a specific room number.\"",
+    "score": 10
+  },
+  {
+    "id": 20,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "In terms of total rent contribution, who pays more rent, men or women?",
+    "answer": "Women.",
+    "score": 10
+  },
+  {
+    "id": 21,
+    "tag": "local-spark-buildingComprehensive",
+    "source": "Comprehensive Document",
+    "question": "Can you give me some information about Spark?",
+    "answer": "\"Of course, what information about Spark apartment are you interested in? For example:\n\nA general introduction to the apartment? (e.g., design philosophy, facilities, community features)\nSpecific room type information? (e.g., available types, sizes, layouts)\nDetailed information about common area facilities? (e.g., gym, pool, meeting rooms)\nSurrounding lifestyle amenities? (e.g., nearby transportation, shopping, dining)\nYou can also tell me what you are most interested in, and I will provide a more detailed introduction.\n\n\"",
+    "score": 10
+  },
+  {
+    "id": 22,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "On average, who pays higher rent, men or women?",
+    "answer": "Men.",
+    "score": 10
+  },
+  {
+    "id": 23,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Were there any major facility issues in the apartment last month?",
+    "answer": "No work order records were found for last month, October.",
+    "score": 10
+  },
+  {
+    "id": 24,
+    "tag": "local-spark-buildingComprehensive",
+    "source": "Comprehensive Document",
+    "question": "Hello, tell me what you can do.",
+    "answer": "\"Hello! I am Spark AI, an intelligent assistant designed for the high-end serviced apartment 'Spark' in Shanghai. I can provide you with the following services:\n\nApartment Information Inquiry:\n- Check-in and basic information: Apartment address, utility fee calculation, Wi-Fi information, access card processing, payment methods, etc.\n- Apartment services: Housekeeping, maintenance, front desk services, laundry, network upgrades, bottled water, pet move-in, printing, airport transfers, package receiving, etc.\n- Common area facilities: Booking, pricing, and regulations for meeting rooms, private kitchens, karaoke rooms, yoga rooms, game areas, etc.\n- Community rules and safety: Quiet hours, item placement, commercial activities, indoor smoking ban, pest control, apartment conversions, public facility safety, fire safety, power outage procedures, personal information usage, etc.\n- Surrounding amenities: Nearby hospitals, police stations, banks, pharmacies, pet hospitals, telecom offices, subway stations, shopping malls, supermarkets, furniture stores, recommended restaurants and bars, etc.\n- Detailed room information: Room type overview, building layout, in-room facility list, public fees, other public facilities, rent prices, etc.\nData Query and Analysis:\n- Occupancy and rental rates: Query occupancy and rental rates for specified periods, as well as detailed daily occupancy and booking data.\n- Unit type performance: Analyze rent, price per square meter, vacancy rates, highest and lowest monthly rent for different unit types over a specified period.\n- Resident information: Query detailed profile information of residents by user ID.\n- Check-in records: Query check-in records for specified periods by status (in-residence, checked-out, canceled, reserved, or all statuses).\n- Historical work orders: Query historical work order information by room number or filter by time range, service item, and specific location.\n- Resident data statistics: Perform statistical analysis on resident data based on criteria such as name, room number, nationality, age, rent, etc.\nMaps and Travel:\n- Route planning: Planning for driving, cycling, walking, public transit, and other modes of travel.\n- Distance measurement: Measure the driving, walking, or straight-line distance between two points.\n- Geocoding: Convert addresses to latitude and longitude, or vice versa.\n- IP location: Query location based on an IP address.\n- Nearby search: Search for nearby points of interest (POI) based on keywords and location.\n- Detailed information query: Query detailed information about a POI.\n- Map display: Display route planning results on a map or launch a navigation/ride-hailing app.\n- Weather query: Query weather information for a specified city.\nReal-time Information:\n- Get the current system time.\n- Perform simple mathematical calculations.\nPlease let me know what specific information you would like, and I will do my best to help.\"",
+    "score": 10
+  },
+  {
+    "id": 25,
+    "tag": "local-spark-building",
+    "source": "Comprehensive Apartment Information Report.md",
+    "question": "What brand of toilet do we use?",
+    "answer": "Based on my current information, I cannot find details about the toilet brand. Some room types are equipped with washlets.",
+    "score": 10
+  },
+  {
+    "id": 26,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "How many women live here now?",
+    "answer": "There are currently 171 female residents.",
+    "score": 10
+  },
+  {
+    "id": 27,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "My monthly budget is no more than $3,000, and I have a pet. What are my options? I also want a good view. Are there any other additional services to consider?",
+    "answer": "\"Okay, based on your needs, with a monthly budget not exceeding $3,000 (approximately 21,600 RMB, calculated at an exchange rate of 1 USD to 7.2 RMB) and planning to have a pet, for which the monthly pet rent is 1,000 RMB, your apartment's monthly rent budget is about 20,600 RMB.\n\nConsidering your requirement for a good view, we recommend some unit options with good orientation (such as south or east-facing) and on higher floors. Here are some recommended unit types that fit your budget and have these features, along with approximate prices (including the monthly 1,000 RMB pet rent, based on a 12-month lease):\n\nA205 Studio Executive Apartment: 69 square meters, east-facing. The monthly rent for a 12-month lease is 13,872 RMB, totaling 14,872 RMB with the pet rent.\nA811 One-Bedroom Deluxe Apartment (or similar south-facing one-bedroom): 70 square meters, south-facing. The monthly rent for a 12-month lease is 18,000 RMB, totaling 19,000 RMB with the pet rent. Similar south-facing one-bedroom deluxe apartments like A911, A1011 are also within this budget.\nB808 Studio Executive Apartment (or similar south-facing studio): 50 square meters, south-facing. The monthly rent for a 12-month lease is 14,500 RMB, totaling 15,500 RMB with the pet rent. Similar south-facing studio executive apartments like B908, B1008 are also within this budget.\nThese unit types are all located on higher floors of Building A or B, offering better lighting and views.\n\nAdditionally, the apartment offers several optional services:\n\nHousekeeping Services:\n\nThe apartment provides one free basic housekeeping service per week.\nIf you need more frequent daily cleaning or deep cleaning, you can choose additional services based on your unit type (e.g., daily cleaning for a studio/1-bedroom is 100 RMB/time, deep cleaning is 200 RMB/time).\nSpecialized cleaning services like deep sofa cleaning (including mite removal for 200 RMB), deep carpet cleaning (300 RMB), deep range hood cleaning (200 RMB), and one-time mite removal (120 RMB) are also available.\nBusiness Car Services:\n\nAirport transfer services are available (e.g., Pudong Airport one-way 7-seater for 650 RMB, 5-seater for 450 RMB).\nYou can rent a business car by the day or half-day (e.g., 7-seater full day for 800 RMB, half day for 500 RMB).\nNetwork Upgrade:\n\nThe basic in-room network can be upgraded, with annual packages for 200M (1200 RMB/year), 300M (1800 RMB/year), and 500M (3600 RMB/year).\nOther Value-Added Services:\n\nBottled water (12.9L, 30 RMB/bottle).\nPrinting services (black and white 1 RMB/page, color 2 RMB/page).\nPublic Area Facility Bookings:\n\nPublic facilities like meeting rooms, private kitchens, KTV rooms, yoga studios, and game areas can be booked for a fee to meet your social and entertainment needs.\nFree Services:\n\nThe front desk offers package receiving services; please collect your packages within 48 hours of arrival.\nEmergency maintenance services (24-hour hotline) are free for defined emergency situations.\nYou can consider these additional services based on your specific needs and lifestyle. If you have more questions about a particular unit type or service, feel free to ask.\"",
+    "score": 10
+  },
+  {
+    "id": 28,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Tell me about the age of the current apartment residents.",
+    "answer": "Core Averages:\n  - Average Age: 31.4 years\n  - Average Number of Stays: 0.0 times\n  - Average Length of Stay: 350.5 days\n\nAge Distribution:\n  - Under 18     : 8 people (2.59%)\n  - 18-30 years    : 148 people (47.90%)\n  - 31-45 years    : 75 people (24.27%)\n  - 46-60 years    : 34 people (11.00%)\n  - Over 60      : 1 person (0.32%)\n  - Age Unknown      : 43 people (13.92%)",
+    "score": 10
+  },
+  {
+    "id": 29,
+    "tag": "local-spark-building",
+    "source": "Comprehensive Apartment Information Report.md",
+    "question": "What are the furniture options? Are the apartments furnished?",
+    "answer": "\"Hello! Our apartments come fully furnished, so you can move in with just your luggage. The furniture provided varies by room type, but generally includes:\n\nStudio-type units (Studio Deluxe, Studio Executive, Studio Premier):\nKitchen & Dining Area: dining table, dining chairs, shoe cabinet.\nLiving Area: storage cabinet, sofa, coffee table.\nMaster Bedroom: bed frame, mattress, nightstand, hangers.\nOne-Bedroom Deluxe Apartment:\nThe living room will have an added TV stand, a two-seater sofa, an ottoman, and a round coffee table.\nThe master bedroom bed frame is upgraded, and it includes a nightstand and a chest of drawers.\nTwo/Three-Bedroom Apartments:\nIn addition to the one-bedroom setup, the second bedroom will have a bed frame, mattress, nightstand, hangers, and a chest of drawers.\nThe number of dining chairs will also be increased accordingly.\nAll apartment furniture is kept clean and tidy. You do not need to move in or remove any of this equipment. Upon moving out, these items must be left in the same position as when you moved in.\"",
+    "score": 10
+  },
+  {
+    "id": 30,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "What is the age of the male residents currently living here?",
+    "answer": "Core Averages:\n  - Average Age: 31.8 years\n  - Average Number of Stays: 0.0 times\n  - Average Length of Stay: 363.2 days\n\nAge Distribution:\n  - Under 18     : 4 people (2.90%)\n  - 18-30 years    : 54 people (39.13%)\n  - 31-45 years    : 34 people (24.64%)\n  - 46-60 years    : 14 people (10.14%)\n  - Over 60      : 1 person (0.72%)\n  - Age Unknown      : 31 people (22.46%)",
+    "score": 10
+  },
+  {
+    "id": 31,
+    "tag": "local-spark-building",
+    "source": "Apartment Complex Facilities Introduction.md",
+    "question": "What amenities are available in the building?",
+    "answer": "\"Certainly, here are the amenities available in our building:\n\nBuilding A, 1st Floor Common Area:\n\nElevator Facilities: 3 passenger elevators, 2 passenger elevators (in elevator hall #2), 1 fire elevator.\nFunctional Rooms: Men's restroom, women's restroom, property/service staff counter, mailroom/delivery room, leasing office, meeting room.\nPublic Spaces: Residential lobby, lounge area (with sofas and coffee tables), coffee bar (self-service coffee and drinks), 2 elevator halls, staircase #1 and staircase #2 (for fire and daily access).\nBuilding B, 1st Floor Common Area:\n\nElevator Facilities: 3 passenger elevators, 1 fire/freight elevator.\nFunctional Rooms: Property/service staff counter, mailroom/delivery room.\nPublic Spaces: Residential lobby, lounge area (with sofas and coffee tables), 1 elevator hall, staircase #1 and staircase #2 (for fire and daily access).\n7th Floor Common Area:\n\nBuilding A Multi-functional Banquet Area: 50 sqm, includes a private banquet area (long dining table for 10+ people), open kitchen (full cooking equipment, large island bar), multi-functional private room (for dining/card games, with wraparound sofa and double-sided 60-inch TV wall), outdoor seating area (with outdoor furniture).\nBuilding B Bar: 150 sqm, includes a bar area (bar counter and circular booths), dining area (long bar-style seating and large formal dining table), KTV room (karaoke and audio-visual entertainment, with wraparound sofa), dry kitchen (for light meals, drinks preparation), 2 restrooms.\nGym and Yoga Studio: 350 sqm, includes a gym (cardio area, strength training machines, free weights area, open functional training area, core area), separate yoga room, men's and women's changing rooms (with toilets, sinks, lockers), drinking water dispenser.\nActivity and Social Space: 300 sqm, includes a work and focus area (co-working space, quiet reading area, large meeting room, 8 individual focus pods), leisure and creation area (pool table, Switch game console, bar social area, music corner, 2 VLOG live streaming rooms), public facilities (main entrance hall and 3 restrooms).\nRooftop Common Area:\n\nPool: Main pool (15.5m long, 8.4m wide, with shallow and deep sections), massage pool (3.2m long, 3.3m wide, 0.8m deep), safety glass railings, drainage system.\nWe hope this information helps you understand our amenities!\"",
+    "score": 10
+  },
+  {
+    "id": 32,
+    "tag": "local-spark-building",
+    "source": "Comprehensive Apartment Information Report.md",
+    "question": "What are the opening hours for Spark's amenities?",
+    "answer": "\"Hello! The opening hours for the amenities and services at Spark Apartment are as follows:\n\n24-Hour Gym: Open 24 hours a day.\nSwimming Pool: Tentatively open from July 1st to August 31st, daily from 8:00 to 18:00. Reservable time slots are:\n8:00-10:00\n10:00-12:00\n12:00-14:00\n14:00-16:00\n16:00-18:00\nFront Desk Customer Service: Service hours are from 8:00 to 20:00.\nEngineering Maintenance Service: Service hours are from 9:00 to 18:00.\nHousekeeping Service: Service hours are from 9:00 to 18:00 (excluding public holidays).\nIf you would like to know the opening hours for other specific facilities, please let me know which one.\"",
+    "score": 10
+  },
+  {
+    "id": 33,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Please tell me the ratio of rent income from male and female residents currently in the apartment.",
+    "answer": "Rent Analysis (based on 181 residents with rent records):\n  - Average Rent: 10,018.42 /month\n  - Median Rent: 8,383.20 /month\n  - Rent Range: 5,050.20 - 24,220.00 /month\n  - Rent Brackets:\n    - Below 3000      : 0 people (0.00%)\n    - 3000-5000   : 0 people (0.00%)\n    - 5001-7000   : 44 people (24.31%)\n    - 7001-10000  : 62 people (34.25%)\n    - Above 10000     : 75 people (41.44%)\n  - Gender Ratio of Paying Residents:\n    - Female           : 102 people (56.35%)\n    - Male           : 79 people (43.65%)\n  - Total Rent Contribution Ratio:\n    - Male           : Contributed a total of 845,750.60 (46.64%)\n    - Female         : Contributed a total of 967,582.80 (53.36%)",
+    "score": 10
+  },
+  {
+    "id": 34,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "What is the latest occupancy rate for this month?",
+    "answer": "The occupancy rate for the current month, November, is:\n--- Occupancy Status ---\nRoomnights occ (excluding signed but not moved-in): 30.22%\nApplication occ (including signed but not moved-in): 32.26%",
+    "score": 10
+  },
+  {
+    "id": 35,
+    "tag": "local-spark-building",
+    "source": "Guest_Information.md",
+    "question": "What should I do if my toilet is broken?",
+    "answer": "Hello, a broken toilet is considered an emergency repair. You can contact us by calling our 24-hour emergency maintenance hotline at: 173 0163 1873. We will directly contact the on-duty maintenance staff to handle it as soon as possible.",
+    "score": 10
+  },
+  {
+    "id": 36,
+    "tag": "local-spark-buildingComprehensive",
+    "source": "Comprehensive Document",
+    "question": "What should I plan to bring to my apartment to move in and live comfortably?",
+    "answer": "\"Hello! To help you settle in comfortably, here are some suggestions based on our apartment's amenities and general living needs:\n\nFirst, the apartment is already finished to a high standard and comes fully equipped with branded appliances and high-quality furniture, so you can move in with just your suitcase. This includes:\n\nKitchen & Dining Area: Refrigerator, range hood, microwave, washer-dryer combo (some units have an induction cooktop), electric kettle, 2 sets of tableware/cups/cutlery, pots/pans/spatula, a set of Zhang Xiaoquan knives, shoe cabinet, and trash can.\nLiving Area: Sofa, coffee table, router, set-top box and remote (some units have a projector, screen, TV).\nBedroom: Bed frame, mattress, nightstand, nightstand lamp, curtains, safe, 6 hangers, and 1 set of bedding.\nBathroom: Hair dryer, trash can, 2 bath towels/face towels each (some units have a washlet).\nOther: Full-length mirror, central air conditioning, Legrand switches and sockets.\nBased on these provided items, you might consider bringing the following personal items to enhance your comfort:\n\nPersonal toiletries and care products: Toothbrush, toothpaste, shampoo, body wash, skincare products, etc.\nExtra bedding and towels: If you need more changes of duvet covers, sheets, or towels of different materials/sizes.\nClothing storage: Although the apartment provides 6 hangers, you may need more or different types, as well as additional storage boxes or bags.\nNetwork equipment: The room includes only basic telecom network equipment with limited range. If you need to extend Wi-Fi coverage, we recommend you purchase your own router.\nKitchen supplies: If you cook frequently, you may need additional cookware, utensils, spices, kitchen gadgets, and ingredients.\nCleaning supplies: The apartment provides a basic weekly housekeeping service, but if you have specific cleaning habits or need extra cleaning, you can bring your own cleaning agents, cloths, etc.\nPersonal entertainment and leisure items: Books, game consoles (the living room is equipped with a Switch, but you might want your own), chargers, headphones, decorations, etc.\nRegularly used medications: Prepare some daily medications and a first-aid kit.\nWe hope this information helps you plan your move better! If you have any other questions, feel free to ask.\"",
+    "score": 10
+  },
+  {
+    "id": 37,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Which unit type had the highest rent per square meter last month?",
+    "answer": "Last month, October, the Two-Bedroom Executive apartment had the highest rental efficiency, at 7.21 RMB/m²/day (calculated based on a unit area of 108 m²).",
+    "score": 10
+  },
+  {
+    "id": 38,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "In which rooms on the 8th floor of Building B can I watch the sunset?",
+    "answer": "According to my available information, the rooms on the 8th floor of Building B from which you can watch the sunset (west-facing) include:\nB809, B810, B811, B812",
+    "score": 10
+  },
+  {
+    "id": 39,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Please provide the demographic data of the current residents.",
+    "answer": "Total records found: 309\nStatistical Summary: Analysis based on 309 qualifying occupancy records\n\nCore Averages:\n  - Average Age: 31.4 years\n  - Average Number of Stays: 0.0 times\n  - Average Length of Stay: 350.5 days\n\nAge Distribution:\n  - Under 18     : 8 people (2.59%)\n  - 18-30 years    : 148 people (47.90%)\n  - 31-45 years    : 75 people (24.27%)\n  - 46-60 years    : 34 people (11.00%)\n  - Over 60      : 1 person (0.32%)\n  - Age Unknown      : 43 people (13.92%)\n\nNationality Distribution:\n  - CN        : 262 people (84.79%)\n  - JP        : 18 people (5.83%)\n  - VN        : 4 people (1.29%)\n  - TW        : 4 people (1.29%)\n  - HK        : 4 people (1.29%)\n  - Unknown   : 3 people (0.97%)\n  - DE        : 3 people (0.97%)\n  - US        : 2 people (0.65%)\n  - CA        : 2 people (0.65%)\n  - Other     : 7 people (2.27%)\n\nGender Distribution:\n  - Female     : 171 people (55.34%)\n  - Male       : 138 people (44.66%)\n\nRent Analysis (based on 181 residents with rent records):\n  - Average Rent: 10,018.42 /month\n  - Median Rent: 8,383.20 /month\n  - Rent Range: 5,050.20 - 24,220.00 /month\n  - Rent Brackets:\n    - Below 3000      : 0 people (0.00%)\n    - 3000-5000   : 0 people (0.00%)\n    - 5001-7000   : 44 people (24.31%)\n    - 7001-10000  : 62 people (34.25%)\n    - Above 10000     : 75 people (41.44%)\n  - Gender Ratio of Paying Residents:\n    - Female           : 102 people (56.35%)\n    - Male           : 79 people (43.65%)\n  - Total Rent Contribution Ratio:\n    - Male           : Contributed a total of 845,750.60 (46.64%)\n    - Female         : Contributed a total of 967,582.80 (53.36%)",
+    "score": 10
+  },
+  {
+    "id": 40,
+    "tag": "local-spark-building",
+    "source": "Detailed interior layout of some apartment types.md",
+    "question": "Could you introduce some unit types with good natural lighting?",
+    "answer": "\"Our apartments are designed with a strong emphasis on natural light and a sense of space, with many rooms featuring large floor-to-ceiling windows.\n\nSpecifically, here are some examples of unit types with excellent lighting:\n\nThe S-39 unit type: The bedroom faces the balcony, which ensures very good lighting and ventilation.\nThe S-35 unit type: This layout uses an open-plan design to maximize space transparency and light, and the window area is also designed to enhance lighting.\nGenerally, south-facing rooms have the best natural light. According to our room information, some south-facing unit types include:\n\nStudio Deluxe: For example, rooms B807, B907, B1007, B1107, B1207, B1507, B1607.\nOne Bedroom Deluxe: For example, rooms B306, B307, B506, B507, B606, B607.\nIf you are interested in a specific unit type or floor, I can provide you with more detailed information.\"",
+    "score": 10
+  },
+  {
+    "id": 41,
+    "tag": "local-spark-building",
+    "source": "SPARK Welcome Letter.md",
+    "question": "Tell me the address of the apartment.",
+    "answer": "Hello! The detailed address of our apartment is: Spark, 931 Qiujiang Road, Jing'an District, Shanghai, China, 200071.",
+    "score": 10
+  },
+  {
+    "id": 42,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Find the latitude and longitude of the apartment.",
+    "answer": "The apartment's coordinates are approximately 121.475391 East longitude and 31.251880 North latitude.",
+    "score": 10
+  },
+  {
+    "id": 43,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "In September, which floor had the most toilet-related issues?",
+    "answer": "After checking, there were two work orders for toilet issues last month, September, one on the 6th floor of Building A and one on the 6th floor of Building B.",
+    "score": 10
+  },
+  {
+    "id": 44,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "What were the most common types of complaints in September?",
+    "answer": "The most common work order issue in September was related to power strips.",
+    "score": 10
+  },
+  {
+    "id": 45,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "What was the average rent last month?",
+    "answer": "In October, the total average daily rent for all unit types was: 332.87 RMB (based on 6,303 total paid room nights).\nThe total rental efficiency for all unit types was: 5.08 RMB/m²/day (based on total rent divided by total paid area room nights).",
+    "score": 10
+  },
+  {
+    "id": 46,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Calculate the rental efficiency for September.",
+    "answer": "The total rental efficiency for all unit types in September was: 5.09 RMB/m²/day (based on total rent divided by total paid area room nights).",
+    "score": 10
+  },
+  {
+    "id": 47,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "I'm a new operations colleague. I need to know who is moving in over the next two weeks.",
+    "answer": "There are no new move-in records for the next two weeks.",
+    "score": 10
+  },
+  {
+    "id": 48,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "I'm from the asset management team. Please tell me last month's average and minimum rent.",
+    "answer": "In October, the total average daily rent for all unit types was: 332.87 RMB (based on 6,303 total paid room nights). The lowest rent was for the Studio Deluxe, with a minimum monthly rent of 5,050.20 RMB.",
+    "score": 10
+  },
+  {
+    "id": 49,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "I work at People's Square in Huangpu District, Shanghai. Is it convenient to commute from your location?",
+    "answer": "To plan the most convenient commute for you, I first need to confirm your apartment's address. According to my information, our apartment's address is: Spark, 931 Qiujiang Road, Jing'an District, Shanghai.\n\nI will now look up the public transportation routes from People's Square in Huangpu District to our apartment. Please wait a moment.\n\nHere are the public transportation options from Spark Apartment (931 Qiujiang Road, Jing'an District, Shanghai) to People's Square (Huangpu District, Shanghai):\n\nOption 1 (Recommended): Take Metro Line 8, total time approx. 22 minutes, walking distance approx. 960 meters.\n\nWalk about 812 meters from the apartment to Zhongxing Road Metro Station, Entrance 2.\nTake Metro Line 8 (Shiguang Road -- Shendu Highway direction), get on at Zhongxing Road Station, and get off at People's Square Station, after 1 stop.\nWalk about 148 meters from the People's Square metro exit to reach People's Square.\nOption 2: Take Bus 455, total time approx. 29 minutes, walking distance approx. 894 meters.\n\nWalk about 698 meters from the apartment to the Xizang North Road Zhongxing Road bus stop.\nTake Bus 455 (Shanghai Railway Station (North Square) -- Lijin Road Jufeng Road direction), get on at Xizang North Road Zhongxing Road stop, and get off at People's Square (Fuzhou Road) stop, after 2 stops.\nWalk about 196 meters from People's Square (Fuzhou Road) to reach People's Square.\nOption 3: Take Bus 537 or 18, total time approx. 31 minutes, walking distance approx. 1104 meters.\n\nWalk about 908 meters from the apartment to the Tianmu East Road Zhejiang North Road bus stop.\nTake Bus 537 (Kailu Road Baicheng Road -- Laoximen direction) or Bus 18 (Lu Xun Park -- Nanpu Bridge Station direction), get on at Tianmu East Road Zhejiang North Road stop, and get off at People's Square (Fuzhou Road) stop.\nWalk about 196 meters from People's Square (Fuzhou Road) to reach People's Square.\nOption 4: Take Bus 929, total time approx. 32 minutes, walking distance approx. 1000 meters.\n\nWalk about 89 meters from the apartment to the Qiujiang Road Gongxing Road bus stop.\nTake Bus 929 (Shanghai Railway Station (North Square) -- Chenchun Road Bohua Road direction), get on at Qiujiang Road Gongxing Road stop, and get off at Henan Middle Road Nanjing East Road stop, after 2 stops.\nWalk about 911 meters from Henan Middle Road Nanjing East Road to reach People's Square.\nOption 5: Take Bus 51, total time approx. 38 minutes, walking distance approx. 927 meters.\n\nWalk about 486 meters from the apartment to the Hongxing Road Baoshan Road bus stop.\nTake Bus 51 (Baoyang Port -- People's Square (Wusheng Road) direction), get on at Hongxing Road Baoshan Road stop, and get off at People's Square (Wusheng Road) stop, after 4 stops.\nWalk about 441 meters from People's Square (Wusheng Road) to reach People's Square.\nOverall, taking Metro Line 8 is the most convenient option.",
+    "score": 10
+  },
+  {
+    "id": 50,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "I need a south-facing room on the 6th floor of Building A.",
+    "answer": "According to my available information, the following south-facing rooms are currently available on the 6th floor of Building A:\nA601, A602, A603, A635, A636, A637",
+    "score": 10
+  },
+  {
+    "id": 51,
+    "tag": "local-spark-building",
+    "source": "Guest_Information.md",
+    "question": "I have a cat, are pets allowed?",
+    "answer": "\"Hello! Yes, our apartment is pet-friendly, and you can bring your pet.\n\nThe pet rent is 1000 RMB per pet per month.\"",
+    "score": 10
+  },
+  {
+    "id": 52,
+    "tag": "local-spark-buildingComprehensive",
+    "source": "Comprehensive Document",
+    "question": "My budget is 10,000, and I have a lot of clothes and shoes. Could you give me some recommendations?",
+    "answer": "Certainly. Do you prefer a studio apartment or a multi-bedroom unit? And what is your desired lease term?",
+    "score": 10
+  },
+  {
+    "id": 53,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Last month, did one-bedroom or two-bedroom apartments have a better occupancy rate?",
+    "answer": "One-bedroom units performed better than two-bedroom units.",
+    "score": 10
+  },
+  {
+    "id": 54,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Which tenants currently have pets?",
+    "answer": "Based on the notes, there are currently 8 residents who have pets.",
+    "score": 10
+  },
+  {
+    "id": 55,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Show me the move-in records for the first two weeks of September.",
+    "answer": "\"Found records for a total of 35 unique rooms.\n\n      Check-in Date   Check-out Date  Room #     Unit Type          All Associated User IDs    Rent   Status                                 Remarks\n2025-09-01 2026-09-01 B1610  One-Bedroom Deluxe     3714, 3749  9,960.00   I       POA16600/month, 2-month deposit, 1-month rent, no rent-free period\n2025-09-01 2025-12-01 A805   Studio Executive           3753  7,302.60   I       2+1 contract / 1-month deposit, 1-month rent\n2025-09-01 2026-09-01 A611   Studio Executive           3576  7,011.00   I       POA11685/month, 2-month deposit, 1-month rent, rent includes 500/month utility credit\n2025-09-02 2025-10-02 A1909  Studio Executive 3744, 3756, 3760  8,178.60   I\n2025-09-02 2026-03-02 B1002  One-Bedroom Deluxe           3698 13,320.00   I       22200/month, 2-month deposit, 1-month rent, actually reserved room B1002\n2025-09-03 2026-09-03 B1506  One-Bedroom Deluxe     3759, 3764  8,662.80   I       2-month deposit, 1-month rent / annual lease\n2025-09-03 2026-09-03 A1905  Studio Executive           3762  6,600.00   I       11000/month, 6+6 lease term, 2-month deposit, 1-month rent\n2025-09-03 2026-09-03 A2003  Studio Executive           3670  6,600.00   I       11000/month, 2-month deposit, 1-month rent\n2025-09-05 2026-09-05 A1810  Studio Executive     3683, 3765  6,332.80   I       2-month deposit, 1-month rent, 12178 RMB paid as deposit\n2025-09-05 2026-09-05 A2008  Studio Executive           3692  6,600.00   I       POA11000/month, includes 300/month utilities, 2-month deposit, 1-month rent, no rent-free period\n2025-09-05 2025-12-05 B1505  One-Bedroom Deluxe           3780  9,750.00   I       1-month deposit, 1-month rent / initial payment made\n2025-09-06 2026-09-06 B1706  One-Bedroom Premier          3778 10,333.80   I       17223/month, 2-month deposit, 1-month rent\n2025-09-06 2026-09-06 A1701  Studio Executive           3779  6,600.00   I       POA11000/month, 2-month deposit, 1-month rent, includes 500/month utilities\n2025-09-06 2026-09-06 B606   One-Bedroom Deluxe           3782  8,359.80   I       13933/month, 2-month deposit, 1-month rent\n2025-09-07 2026-09-07 A518   Studio Executive           3166  7,690.80   I       12818/month, 2-month deposit, 1-month rent\n2025-09-07 2026-09-07 A923   One-Bedroom Deluxe     3787, 3789 11,387.40   I       18979/month, 2-month deposit, 1-month rent\n2025-09-08 2026-09-08 B901   One-Bedroom Deluxe     3788, 3792 11,605.20   I       6+6 contract / 2-month deposit, 1-month rent, two room keys issued\n2025-09-08 2026-09-08 A2220  One-Bedroom Deluxe     3691, 3807 11,550.00   I       POA19250/month, 2-month deposit, 1-month rent, no rent-free period\n2025-09-09 2026-09-09 A627   Studio Executive           3754  7,011.00   I       2-month deposit, 1-month rent\n2025-09-09 2026-09-09 A628   Studio Executive           3786  7,011.00   I       11685/month, 2-month deposit, 1-month rent\n2025-09-09 2026-09-09 B1511  One-Bedroom Deluxe           3757  9,300.00   I       POA15500\n2025-09-09 2026-01-15 A1608  Studio Executive           3605  7,500.00   I\n2025-09-10 2025-10-10 A213   Studio Executive     3806, 3808 13,872.00   D\n2025-09-10 2026-09-10 A303   Studio Executive           3783  6,961.20   I       POA11602, 2-month deposit, 1-month rent, no rent-free period\n2025-09-10 2025-12-20 A1607  Studio Executive           3804  7,512.60   I       3 months and 10 days / 1-month deposit, 1-month rent\n2025-09-10 2026-09-10 A2018  Studio Executive           3699  6,600.00   I       6+6 lease, 11000/month, 2-month deposit, 1-month rent\n2025-09-11 2026-09-11 A332   Studio Executive           3809  7,275.00   R       POA12125/month, 2-month deposit, 1-month rent\n2025-09-11 2025-11-11 A907   Studio Executive           3798  7,919.40   R       Short-term 2-month lease / foreigner\n2025-09-12 2026-09-12 A502   Studio Executive           3758  7,851.60   R       13086/month, 2-month deposit, 1-month rent, 13086 deposit paid\n2025-09-12 2026-09-12 A2517  Studio Executive           3805  6,600.00   R       11000/month, 2-month deposit, 1-month rent\n2025-09-12 2025-12-12 B1110  One-Bedroom Deluxe           3735 10,680.00   R       17800/month, 1-month deposit, 1-month rent\n2025-09-12 2026-09-12 A1018  Studio Executive           3799  6,748.80   R       6+6 lease, 11248/month, 2-month deposit, 1-month rent\n2025-09-13 2025-12-13 B1609  One-Bedroom Deluxe           3766 12,180.00   R       20300/month, 1-month deposit, 1-month rent\n2025-09-13 2026-09-13 A1508  Studio Executive           3796  7,452.60   R       POA12421/month, 2-month deposit, 1-month rent\n2025-09-14 2025-10-14 A906   Studio Executive           3723  7,919.40   R       Short-term 1-month lease\"",
+    "score": 10
+  },
+  {
+    "id": 56,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Open the data dashboard.",
+    "answer": "Dashboard opened successfully. Please visit https://chatbot.sparkai.xin/ to view.",
+    "score": 10
+  },
+  {
+    "id": 57,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "What was the gender ratio of new residents who moved in during August?",
+    "answer": "There were a total of 73 new residents in August, with a male to female ratio of 34:39.",
+    "score": 10
+  },
+  {
+    "id": 58,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "In September, at what times did residents usually submit work orders?",
+    "answer": "[ Distribution by Day of the Week (Monday to Sunday) ]\n  - Monday: 27 times (30.7%)\n  - Tuesday: 20 times (22.7%)\n  - Wednesday: 13 times (14.8%)\n  - Thursday: 5 times (5.7%)\n  - Friday: 6 times (6.8%)\n  - Saturday: 11 times (12.5%)\n  - Sunday: 6 times (6.8%)\n\n[ Distribution by Time of Day ]\n  - Late Night (00:00-06:59): 1 time (1.1%)\n  - Morning (07:00-11:59): 21 times (23.9%)\n  - Midday (12:00-13:59): 5 times (5.7%)\n  - Afternoon (14:00-17:59): 37 times (42.0%)\n  - Evening (18:00-23:59): 24 times (27.3%)",
+    "score": 10
+  },
+  {
+    "id": 59,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "Among the current residents of the Studio Executive apartments, are there more males or females, and what is the ratio?",
+    "answer": "There are more females, with the following ratio:\nFemale: 94 people (58.02%)\nMale: 68 people (41.98%)",
+    "score": 10
+  },
+  {
+    "id": 60,
+    "tag": "local-spark-tools",
+    "source": "tools",
+    "question": "What is the age distribution of the residents currently living in the Studio Executive apartments?",
+    "answer": "Age Distribution:\n  - Under 18     : 7 people (4.32%)\n  - 18-30 years    : 87 people (53.70%)\n  - 31-45 years    : 34 people (20.99%)\n  - 46-60 years    : 18 people (11.11%)\n  - Over 60      : 0 people (0.00%)\n  - Age Unknown      : 16 people (9.88%)",
+    "score": 10
+  }
+]
